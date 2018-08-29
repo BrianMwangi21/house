@@ -1930,3 +1930,10 @@ Alternately, the _Daily Diary of my Programming Dreams_.
   12. Added [fiddles/react/fiddle-0012-MultipleInputs](fiddles/react/fiddle-0012-MultipleInputs)
   13. Added [fiddles/react/fiddle-0013-StateLifting](fiddles/react/fiddle-0013-StateLifting)
   14. Added [fiddles/react/fiddle-0014-ChildrenProp](fiddles/react/fiddle-0014-ChildrenProp)
+
+
+### 246_react_fiddles_15_to_25 ~ [Issue 246](https://github.com/bradyhouse/house/issues/246)
+
+* **React**
+
+  1. Added [fiddles/react/fiddle-0015-JqueryPlugin](fiddles/react/fiddle-0015-JqueryPlugin)

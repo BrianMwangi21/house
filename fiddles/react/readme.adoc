@@ -48,6 +48,7 @@ table outlines how.
 === Reference
 
 * link:https://github.com/facebook/create-react-app[Create React App]
+* * link:https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md[CHANGELOG]
 * link:https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation[React Dev Tools]
 * link:https://reactjs.org/docs/events.html[SyntheticEvent]
 
